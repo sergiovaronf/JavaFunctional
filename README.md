@@ -1,4 +1,4 @@
-## Ejercicios Prácticos
+## Ejercicios Prácticos - BE BOLDER
 
 Para ejecutar el proyecto de forma adecuada, se deben tener en cuenta los siguientes puntos:
 
