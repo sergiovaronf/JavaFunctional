@@ -1,11 +1,8 @@
-package _09;
-import _04_Books.Libro;
+package _09_Optional;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
-import java.util.function.Supplier;
 import java.util.stream.Collectors;
 
 public class MainOptional {
